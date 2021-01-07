@@ -1,0 +1,20 @@
+[
+    {
+        "expense_name": "rent",
+        "amount": 200,
+        "category_id": 1,
+        "user_id": 1
+    },
+    {
+        "expense_name": "Hawaii",
+        "amount": 400,
+        "category_id": 2,
+        "user_id": 2
+    },
+    {
+        "expense_name": "ucf bootcamp",
+        "amount": 1000,
+        "category_id": 3,
+        "user_id": 3
+    }
+]

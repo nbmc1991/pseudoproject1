@@ -1,0 +1,17 @@
+[
+    {
+        "category_name": "Living Expenses",
+        "description": "rent, mortgage,car etc",
+        "user_id": 1
+    },
+    {
+        "category_name": "Personal",
+        "description": "subscriptions, travel, beauty",
+        "user_id": 2
+    },
+    {
+        "category_name": "Debt",
+        "description": "credit cards,school",
+        "user_id": 3
+    }
+]
